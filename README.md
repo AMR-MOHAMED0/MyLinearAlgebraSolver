@@ -74,19 +74,19 @@ _Gauss–Jordan Elimination window_
 ![Matrix Inverse](Resources/screenshots/inverse.png)  
 _Matrix Inverse calculation window_
 
-![Choose the way you wanna to solve with](Resources/screenshots/1- Choose the way you wanna to solve with.png)  
+![Choose the way you wanna to solve with](Resources/screenshots/Choose_the_way_you_wanna_to_solve_with.png)  
 _Choose the way you wanna to solve with window_
 
-![Enter Size of Matrix](Resources/screenshots/2- Enter Size of Matrix.png)  
+![Enter Size of Matrix](Resources/screenshots/Enter_Size_of_Matrix.png)  
 _Enter Size of Matrix window_
 
-![Enter Augmented Matrix](Resources/screenshots/3- Enter Augmented Matrix.png)  
+![Enter Augmented Matrix](Resources/screenshots/Enter_Augmented_Matrix.png)  
 _Enter Augmented Matrix window_
 
-![Solve Matrix](Resources/screenshots/4- Solve Matrix.png)  
+![Solve Matrix](Resources/screenshots/Solve_Matrix.png)  
 _Solve Matrix window_
 
-![Result](Resources/screenshots/5- Result.png)  
+![Result](Resources/screenshots/Result.png)  
 _Result window_
 
 ---
