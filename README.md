@@ -65,17 +65,14 @@ A Windows Forms application built in C# (Visual Studio) to solve linear algebra 
 
 ## Screenshots
 
-![Gaussian Elimination](Resources\screenshots\gaussian.png)  
+![Gaussian Elimination](Resources/screenshots/gaussian.png)  
 _Gaussian Elimination window_
 
-![Gauss–Jordan](Resources/screenshots/jordan.png)  
-_Gauss–Jordan Elimination window_
+![Gauss Jordan](Resources/screenshots/jordan.png)  
+_Gauss Jordan Elimination window_
 
 ![Matrix Inverse](Resources/screenshots/inverse.png)  
 _Matrix Inverse calculation window_
-
-![Choose the way you wanna to solve with](Resources/screenshots/Choose_the_way_you_wanna_to_solve_with.png)  
-_Choose the way you wanna to solve with window_
 
 ![Enter Size of Matrix](Resources/screenshots/Enter_Size_of_Matrix.png)  
 _Enter Size of Matrix window_
