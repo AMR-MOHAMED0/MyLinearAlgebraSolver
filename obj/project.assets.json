@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\ENG-A\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\obj\\",
+      "outputPath": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

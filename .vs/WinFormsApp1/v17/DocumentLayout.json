@@ -1,77 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\",
+  "WorkspaceRootPath": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:showresult_rref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\form000.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\form000.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form000.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\linalg_fullpj\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|c:\\users\\eng-a\\desktop\\github_projects\\linalg_fullpj\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AB4861EE-3A15-4FE3-A576-2C19060F9F57}|WinFormsApp1.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -82,34 +82,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form1.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAAuwFAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAQwFAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T01:18:48.875Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:16:36.264Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -121,37 +108,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "ShowResult_RREF.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\ShowResult_RREF.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\ShowResult_RREF.cs",
               "RelativeDocumentMoniker": "ShowResult_RREF.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\ShowResult_RREF.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\ShowResult_RREF.cs",
               "RelativeToolTip": "ShowResult_RREF.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T22:08:20.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form2.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAGMBAAAAAAAAAAAAAMwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFUBAAAAAAAAAAD4v9cAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T11:17:26.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Form5.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form5.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form5.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form5.cs",
               "RelativeToolTip": "Form5.cs",
               "ViewState": "AgIAAK4AAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,11 +160,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Program.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,60 +173,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:16:36.264Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ShowResult_RREF.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\ShowResult_RREF.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\ShowResult_RREF.cs",
               "RelativeDocumentMoniker": "ShowResult_RREF.cs",
               "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\ShowResult_RREF.cs [Design]",
-              "RelativeToolTip": "ShowResult_RREF.cs [Design]",
+              "RelativeToolTip": "..\\..\\LinAlg_FullPJ\\ShowResult_RREF.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T22:06:58.72Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-10T22:06:58.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form2.cs [Design]",
-              "RelativeToolTip": "Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\LinAlg_FullPJ\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:16:50.201Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-29T11:16:50.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Form000.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form000.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form000.cs",
               "RelativeDocumentMoniker": "Form000.cs",
               "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form000.cs [Design]",
-              "RelativeToolTip": "Form000.cs [Design]",
+              "RelativeToolTip": "..\\..\\LinAlg_FullPJ\\Form000.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T21:47:30.204Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-29T21:47:30.204Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Form000.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form000.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form000.Designer.cs",
               "RelativeDocumentMoniker": "Form000.Designer.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form000.Designer.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form000.Designer.cs",
               "RelativeToolTip": "Form000.Designer.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:53:38.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T21:53:38.716Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form4.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form4.cs",
               "RelativeToolTip": "Form4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -250,9 +245,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form3.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form3.cs",
               "RelativeToolTip": "Form3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,9 +258,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Form000.cs",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form000.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form000.cs",
               "RelativeDocumentMoniker": "Form000.cs",
-              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form000.cs",
+              "ToolTip": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form000.cs",
               "RelativeToolTip": "Form000.cs",
               "ViewState": "AgIAAAABAAAAAAAAAAAAAO4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,7 +270,7 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form3.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "D:\\Projects C#\\codoo\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -285,7 +280,7 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "D:\\Projects C#\\codoo\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,7 +290,7 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form4.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
               "ToolTip": "D:\\Projects C#\\codoo\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,7 +300,7 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Form5.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\LinAlg_FullPJ\\Form5.cs",
+              "DocumentMoniker": "C:\\Users\\ENG-A\\Desktop\\GitHub_Projects\\LinAlg_FullPJ\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
               "ToolTip": "D:\\Projects C#\\codoo\\Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
