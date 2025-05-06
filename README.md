@@ -64,6 +64,8 @@ A Windows Forms application built in C# (Visual Studio) to solve linear algebra 
 ---
 
 ## Screenshots
+[![Watch the video](Resources/videos/thumbnail.png)](Resources/videos/demo.mp4)
+
 
 ![Gaussian Elimination](Resources/screenshots/gaussian.png)  
 _Gaussian Elimination window_
